@@ -1,0 +1,14 @@
+{
+  "name": "scene-push-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^2.3.1"
+  },
+  "devDependencies": {}
+}
